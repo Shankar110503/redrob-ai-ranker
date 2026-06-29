@@ -1,0 +1,24 @@
+team_name: Team_Shankar
+
+participant_name: Shankar Lal Godara
+
+project_name: Redrob AI Candidate Ranking System
+
+language: Python
+
+framework:
+  - Pandas
+  - NumPy
+  - Scikit-learn
+
+repository: https://github.com/USERNAME/redrob-ai-candidate-ranking
+
+sandbox: https://colab.research.google.com/
+
+ai_tools:
+  - ChatGPT
+
+description: >
+  AI-based candidate ranking system that matches candidates
+  with job descriptions using feature engineering,
+  skill analysis, behavioral signals, and weighted scoring.
