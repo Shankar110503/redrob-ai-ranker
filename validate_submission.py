@@ -1,1 +1,2 @@
-python validate_submission.py output/team_shankar.csv
+if __name__ == "__main__":
+    main()
